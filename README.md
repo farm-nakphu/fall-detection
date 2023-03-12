@@ -1,2 +1,2 @@
-# fall_detedtion_2014
+# fall_detection_2014
 Biomedical Engineering Thesis
